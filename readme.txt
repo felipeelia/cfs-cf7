@@ -17,6 +17,9 @@ You can get the form HTML using `CFS()->get( 'form_field_id' )` or the form ID u
 
 Note: Obviously, this plugin requires both *Custom Field Suite* and *Contact Form 7* to work.
 
+You can contribute to the source code in the [GitHub page](https://github.com/felipeelia/cfs-cf7).
+
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/cfs-cf7` directory, or install the plugin through the WordPress plugins screen directly.
@@ -28,10 +31,6 @@ Note: Obviously, this plugin requires both *Custom Field Suite* and *Contact For
 = Can I choose HTML class or id of the form? =
 
 Yes. You can enter those values at Fields Group edit screen :)
-
-= Can I help you? =
-
-Yes! Visit [GitHub repository](https://github.com/EliaBR/cfs-cf7).
 
 == Screenshots ==
 
